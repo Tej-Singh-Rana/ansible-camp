@@ -1,0 +1,11 @@
+[web]
+web-01
+web-02
+
+[server]
+server-01
+server-02
+
+webserver
+dbserver
+
