@@ -2,4 +2,5 @@
 
 ### Task - 13 
 **Picked it up from the Ansible Cert Objectives**
+> Ansible Tower
 - Perform basic configuration of Ansible Tower after installation and configuration
