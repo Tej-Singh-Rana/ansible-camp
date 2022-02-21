@@ -3,6 +3,9 @@
 ### Official Ansible
 
 - [Official Ansible Blogs](https://www.ansible.com/blog/all)
+- [Ansible - 2.8](https://docs.ansible.com/ansible/2.8/user_guide/index.html)
+
+
 ### Repository
 
 - [KeyboardInterrupt/awesome-ansible](https://github.com/KeyboardInterrupt/awesome-ansible)
