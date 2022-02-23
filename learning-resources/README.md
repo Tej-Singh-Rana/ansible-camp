@@ -19,4 +19,6 @@
 
 - [Show your branch name on your terminal](https://askubuntu.com/a/946716)
 
+### Vimrc Configuration Guide
 
+- [Vimrc Configuration Guide](https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/)
