@@ -10,6 +10,9 @@
 - [Ansible for the absolute beginners course](https://kodekloud.com/courses/ansible-for-the-absolute-beginners-couse/)
 - [Ansible series](https://www.youtube.com/c/techbeatly/playlists)
 - [Ansible advanced course](https://kodekloud.com/courses/ansible-certification-preparation-course/)
+- [Ansible for devops series](https://www.youtube.com/c/JeffGeerling/playlists)
+
+
 ### Repository
 
 - [KeyboardInterrupt/awesome-ansible](https://github.com/KeyboardInterrupt/awesome-ansible)
