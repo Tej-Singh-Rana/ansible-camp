@@ -1,9 +1,0 @@
-# Ansible Version 2.9
-- name: Install git on servers
-  hosts: web
-  become_user: tej-singh
-  tasks:
-    - name: Install the latest version of git
-      yum:
-        name: git
-        state: latest
