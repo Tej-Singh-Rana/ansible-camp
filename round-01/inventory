@@ -1,5 +1,6 @@
 [web]
-ansible-tester ansible_connection=ssh 
+web-01
+web-02
 
 [server]
 server-01
