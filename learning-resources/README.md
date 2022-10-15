@@ -22,6 +22,11 @@
 - [Leucos/ansible-tuto](https://github.com/leucos/ansible-tuto)
 
 
+### Ebooks
+
+- [Ansible Free Ebooks](https://www.ansible.com/resources/ebooks)
+
+
 ### To show Git Branch with colors on our Terminal
 
 - [Show your branch name on your terminal](https://askubuntu.com/a/946716)
