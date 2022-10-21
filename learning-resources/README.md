@@ -9,7 +9,7 @@
 
 - [Ansible for the absolute beginners course](https://kodekloud.com/courses/ansible-for-the-absolute-beginners-couse/)
 - [Ansible series](https://www.youtube.com/c/techbeatly/playlists)
-- [Ansible advanced course](https://kodekloud.com/courses/ansible-certification-preparation-course/)
+- [Ansible advanced course](https://kodekloud.com/courses/ansible-advanced-course/)
 - [Ansible for devops series](https://www.youtube.com/c/JeffGeerling/playlists)
 
 
@@ -20,6 +20,11 @@
 - [Ansible/ansible-examples](https://github.com/ansible/ansible-examples)
 - [Geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops)
 - [Leucos/ansible-tuto](https://github.com/leucos/ansible-tuto)
+
+### Blogs
+
+- [Spacelift Blogs](https://spacelift.io/blog/ansible)
+- [Perficient Blogs](https://blogs.perficient.com/2022/06/29/managing-aws-infrastructure-using-ansible-tower/)
 
 
 ### Ebooks
