@@ -39,3 +39,10 @@
 ### Vimrc Configuration Guide
 
 - [Vimrc Configuration Guide](https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/)
+
+### Community 
+
+- [Ansible Community](https://www.ansible.com/community)
+- [KodeKloud Community](https://kodekloud.com/community/c/ansible/)
+- [Ansible Mailing Group](https://groups.google.com/g/ansible-project)
+
