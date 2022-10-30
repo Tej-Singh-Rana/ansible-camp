@@ -11,7 +11,7 @@
 - [Ansible series](https://www.youtube.com/c/techbeatly/playlists)
 - [Ansible advanced course](https://kodekloud.com/courses/ansible-advanced-course/)
 - [Ansible for devops series](https://www.youtube.com/c/JeffGeerling/playlists)
-
+- [Ansible webinars/trainings](https://www.ansible.com/resources/webinars-training)
 
 ### Repository
 
