@@ -1,1 +1,7 @@
-
+---
+ - name:
+   hosts:
+   become: 
+   tasks:
+   - 
+   
