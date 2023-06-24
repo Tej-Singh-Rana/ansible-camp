@@ -1,3 +1,6 @@
+[exam]
+
+
 [web]
 ansible-tester ansible_connection=ssh 
 
