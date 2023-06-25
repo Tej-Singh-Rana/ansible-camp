@@ -13,7 +13,7 @@
 - [Ansible for devops series](https://www.youtube.com/c/JeffGeerling/playlists)
 - [Ansible webinars/trainings](https://www.ansible.com/resources/webinars-training)
 
-### Repository
+### Repositories
 
 - [KeyboardInterrupt/awesome-ansible](https://github.com/KeyboardInterrupt/awesome-ansible)
 - [Jdauphant/awesome-ansible](https://github.com/jdauphant/awesome-ansible)
