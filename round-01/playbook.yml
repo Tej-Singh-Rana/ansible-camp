@@ -7,3 +7,8 @@
       yum:
         name: git
         state: latest
+    - name: Cloning a repo in a specific location
+      git:
+        repo: 
+        dest: 
+
