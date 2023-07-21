@@ -6,3 +6,4 @@
 
 ### Modules
 
+- [Patterns: Targeting Hosts and Groups](https://docs.ansible.com/ansible/latest/inventory_guide/intro_patterns.html)
