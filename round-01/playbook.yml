@@ -9,6 +9,6 @@
         state: latest
     - name: Cloning a repo in a specific location
       git:
-        repo: 
-        dest: 
+        repo: https://github.com/Tej-Singh-Rana/ansible-camp.git
+        dest: /tmp/
 
