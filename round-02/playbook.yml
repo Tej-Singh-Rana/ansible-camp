@@ -1,8 +1,11 @@
 ---
  - name:
-   hosts:
-   become: 
+   hosts: 
+   become: true 
    tasks:
-   - name:
-   
+   - name: Change the file ownership, and group.
+     ansible.builtin.file:
+       path: /tmp/exam-file.conf
+       owner: exam
+       group: exam 
    
