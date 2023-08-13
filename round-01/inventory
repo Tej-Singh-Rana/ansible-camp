@@ -1,6 +1,10 @@
 [exam]
 
 
+[exam:groupA]
+
+[exam:groupB]
+
 [web]
 ansible-tester ansible_connection=ssh 
 
