@@ -46,3 +46,6 @@
 - [KodeKloud Community](https://kodekloud.com/community/c/ansible/)
 - [Ansible Mailing Group](https://groups.google.com/g/ansible-project)
 
+### Communication 
+
+- [Communication Radio](https://docs.ansible.com/ansible/devel/community/communication.html#communication)
