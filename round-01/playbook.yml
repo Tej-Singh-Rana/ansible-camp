@@ -11,4 +11,6 @@
       git:
         repo: https://github.com/Tej-Singh-Rana/ansible-camp.git
         dest: /tmp/
+        single_branch: yes
+        version: main
 
